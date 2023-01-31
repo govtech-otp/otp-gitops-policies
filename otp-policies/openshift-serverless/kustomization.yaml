@@ -2,4 +2,3 @@ generators:
   - policy-generator-openshift-serverless-config.yaml
 commonAnnotations:
   argocd.argoproj.io/compare-options: IgnoreExtraneous
-
