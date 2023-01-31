@@ -9,7 +9,7 @@ metadata:
   name: openshift-serverless-operator
   namespace: openshift-serverless
   labels:
-    operators.coreos.com/openshift-serverless-operator.openshift-operators: ''
+    operators.coreos.com/serverless-operator.openshift-serverless: ''
 spec:
   channel: stable
   installPlanApproval: Automatic
