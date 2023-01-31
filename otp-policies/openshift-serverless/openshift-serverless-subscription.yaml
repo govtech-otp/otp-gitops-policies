@@ -22,6 +22,6 @@ kind: KnativeServing
 metadata:
   name: knative-serving
   namespace: knative-serving
-    labels:
+  labels:
     gitops.tier.group: serverless
 spec: {}
